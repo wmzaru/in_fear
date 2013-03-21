@@ -1,0 +1,1 @@
+a:2:{i:0;a:4:{s:10:"modulename";s:7:"breakin";s:8:"location";s:11:"stables-nav";s:8:"function";s:14:"breakin_dohook";s:10:"whenactive";s:0:"";}i:1;a:4:{s:10:"modulename";s:11:"mountrarity";s:8:"location";s:11:"stables-nav";s:8:"function";s:18:"mountrarity_dohook";s:10:"whenactive";s:0:"";}}

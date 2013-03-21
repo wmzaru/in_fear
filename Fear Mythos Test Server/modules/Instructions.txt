@@ -1,0 +1,19 @@
+Install - Normal Installation Process for any module
+
+
+
+Admin Adjustable Settings
+
+You can find these in Game Settings/Cave of Mysert in the Forest Special Modules
+
+1.Name of person mooning - This can be used to change the name of the person mooning the player. By default it is 'some guy'.
+
+2.Max Gems Given per DK of user - In this event, the users DKs are multipled by a default of 3 and the result is placed in gems on hand. The minimum gems this module will give is 1, regardless of multiplication.
+
+3.All Buffs - The Myserty Buff gives 1 of 3 Buffs: Lightning Attack and Defence Buff, Regen Buff, Minion Buff. The settings allow admins to tweak and change to make these mroe rewarding or less rewarding at their whims.
+
+IMPORTANT
+
+4. Module Settings - These 3 are are defaulted to core downloaded forest specials. If you DO NOT have any of these 3 modules, please change the module name to another module. This was amde ajustable so that:
+A)Servers that removed these specials could replace the nav easily, and 
+B)Servers could change where they go to add more variety or challenge (for instance, a module that can only be found via the Cave)

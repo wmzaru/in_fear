@@ -1,0 +1,32 @@
+Module: The Gem Trader (Village Special)
+for Legend of the Green Dragon 1.x
+Version 1.1 (09/28/06)
+by Gary Hartzell
+
+Description:
+This module is my answer to LoGD games where there are players who love gem shops and others who 
+hate them.  I personally don't like gem shops, but my players have too many gems on hand, and 
+this module balances that out a little.
+
+This is a village special where, if you have a gem, the Trader will offer you a random amount of 
+gold for your gem.  The range of the offer is admin configurable, as well as the min and max 
+levels the special is accessible, how many times a day the event can occur for a player, and the 
+Trader's name.
+
+Installation:
+1. Upload to your LoGD modules directory
+2. Log into LoGD, enter the Module Manager in the Superuser Grotto
+3. Find "The Gem Trader" and click "Install"
+4. From the next screen, again find "The Gem Trader" and click "Settings"
+5. Choose your desired settings and save your changes
+6. Click "Activate"
+
+Version History:
+
+v1.1 (09/28/06)
+- Changed the default behavior when the conditions are not true to receive a visit from the Gem 
+   Trader.  Previously, the player would always receive a gem.  Now, the odds of receiving a 
+   gem are 1/5.
+
+v1.0 (06/24/06)
+- First release

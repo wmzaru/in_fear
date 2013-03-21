@@ -1,0 +1,1 @@
+a:1:{i:0;a:3:{s:10:"event_type";s:7:"gardens";s:10:"modulename";s:7:"abigail";s:12:"event_chance";s:67:"$bought=get_module_pref("bought", "abigail");return ($bought?0:50);";}}

@@ -1,0 +1,1 @@
+a:2:{i:0;a:4:{s:10:"modulename";s:9:"inventory";s:8:"location";s:18:"showformextensions";s:8:"function";s:16:"inventory_dohook";s:10:"whenactive";s:0:"";}i:1;a:4:{s:10:"modulename";s:12:"mountupgrade";s:8:"location";s:18:"showformextensions";s:8:"function";s:19:"mountupgrade_dohook";s:10:"whenactive";s:0:"";}}

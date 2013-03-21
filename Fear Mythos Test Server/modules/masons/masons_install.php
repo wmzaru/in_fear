@@ -1,0 +1,10 @@
+<?php
+	module_addhook("village");
+	module_addhook("bioinfo");
+	module_addhook("newday");
+	module_addhook("newday-runonce");
+	module_addhook("dragonkill");
+	module_addhook("changesetting");
+	module_addhook("allprefs");
+	module_addhook("allprefnavs");
+?>
